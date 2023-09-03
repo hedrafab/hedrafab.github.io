@@ -96,7 +96,7 @@ h3 {
 h2:after {
     display: block;
     height: 2px;
-    background-color: #E78D1E;
+    background-color: #0A2647;
     content: " ";
     width: 120px;
     margin: 0 auto;
@@ -119,8 +119,8 @@ input[type=submit] {
 .btn-full:link,
 .btn-full:visited,
 input[type=submit] {
-    background-color: #E78D1E;
-    border: 1px solid #E78D1E;
+    background-color: #0A2647;
+    border: 1px solid #0A2647;
     color: #fff;
     margin-right: 15px;
     margin-bottom: 10px;
@@ -153,11 +153,11 @@ input[type=submit]:active {
 /* ----- BORDERS -----*/
 
 .red-border {
-    border: 2px solid #A63B35;
+    border: 2px solid #023B2F;
 }
 
 .orange-border {
-    border: 2px solid #E78D1E;
+    border: 2px solid #0A2647;
 }
 
 .lblue-border {
@@ -295,7 +295,7 @@ header {
     text-decoration: none;
     text-transform: uppercase;
     font-size: 90%;
-    border-bottom: 2px solid #E78D1E;
+    border-bottom: 2px solid #0A2647;
     transition: border-bottom 0.2s;
 }
 
@@ -322,7 +322,7 @@ header {
 
 .main-nav li a:hover,
 .main-nav li a:active {
-    border-bottom: 3px solid #A63B35;
+    border-bottom: 3px solid #023B2F;
 }
 
 /* ----------------------------------------------- */
@@ -361,7 +361,7 @@ header {
 .shape::before {
     border-radius: 50%;
     position: absolute;
-    background: linear-gradient(rgba(24, 37, 79),transparent, transparent), url(img/highway2.jpg);
+    background: linear-gradient(rgba(24, 37, 79),transparent, transparent), url(img/Office.jpeg);
     background-size: cover;
      background-repeat:   no-repeat;
     background-position: center center; 
@@ -399,11 +399,11 @@ header {
 }
 
 .red-border h3 {
-    border-bottom: 2px solid #A63B35;
+    border-bottom: 2px solid #023B2F;
 }
 
 .orange-border h3 {
-    border-bottom: 2px solid #E78D1E;
+    border-bottom: 2px solid #0A2647;
 }
 
 .lblue-border h3 {
@@ -429,7 +429,7 @@ header {
 .year_info {
     font-size: 250% !important;
     font-weight: 100;
-    color: #A63B35;
+    color: #023B2F;
     text-align: center;
     line-height: 20px !important;
 }
@@ -441,11 +441,11 @@ header {
 }
 
 .red-border .year_info {
-    color: #A63B35;
+    color: #023B2F;
 }
 
 .orange-border .year_info {
-    color: #E78D1E;
+    color: #0A2647;
 }
 
 .lblue-border .year_info {
@@ -594,7 +594,7 @@ ul.custom-bullet li::before {
 .story_year {
     font-size: 180%;
     font-weight: 100;
-    color: #A63B35;
+    color: #023B2F;
     text-align: center;
 }
 
@@ -642,7 +642,7 @@ ul.custom-bullet li::before {
 }
 
 .contact-input {
-    border-left: 2px solid #E78D1E;
+    border-left: 2px solid #0A2647;
     margin-left: 6px !important;
     padding-left: 2%;
 }
